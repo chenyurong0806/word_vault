@@ -55,6 +55,14 @@
       "lapses": 0,
       "due": 1780216712291,
       "lastReview": 1780130312291
+    },
+    "backfire": {
+      "ease": 2.6,
+      "interval": 1,
+      "reps": 1,
+      "lapses": 0,
+      "due": 1780216739873,
+      "lastReview": 1780130339873
     }
   }
 }
