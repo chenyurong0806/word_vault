@@ -23,6 +23,14 @@
       "lapses": 0,
       "due": 1780198428252,
       "lastReview": 1780112028252
+    },
+    "exposes": {
+      "ease": 2.6,
+      "interval": 1,
+      "reps": 1,
+      "lapses": 0,
+      "due": 1780198440016,
+      "lastReview": 1780112040016
     }
   }
 }
