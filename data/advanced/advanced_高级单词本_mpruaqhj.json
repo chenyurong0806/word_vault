@@ -23,6 +23,22 @@
         "due": 0,
         "lastReview": 0
       }
+    },
+    {
+      "id": "3466523c-d3c0-4843-8e00-8b6a79da19f4",
+      "term": "consistent",
+      "definition": "adj. 始终如一的，一贯的；持续的，连续的；测试",
+      "note": "",
+      "createdAt": "2026-05-30T04:39:10.195Z",
+      "updatedAt": "2026-05-30T04:39:10.195Z",
+      "stats": {
+        "ease": 2.5,
+        "interval": 0,
+        "reps": 0,
+        "lapses": 0,
+        "due": 0,
+        "lastReview": 0
+      }
     }
   ]
 }
