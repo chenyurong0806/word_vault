@@ -31,6 +31,14 @@
       "lapses": 0,
       "due": 1780203326028,
       "lastReview": 1780116926028
+    },
+    "consistent": {
+      "ease": 2.6,
+      "interval": 1,
+      "reps": 1,
+      "lapses": 0,
+      "due": 1780203329769,
+      "lastReview": 1780116929769
     }
   }
 }
