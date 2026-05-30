@@ -15,6 +15,14 @@
       "lapses": 0,
       "due": 1780198417354,
       "lastReview": 1780112017354
+    },
+    "destruction": {
+      "ease": 2.6,
+      "interval": 1,
+      "reps": 1,
+      "lapses": 0,
+      "due": 1780198428252,
+      "lastReview": 1780112028252
     }
   }
 }
