@@ -39,6 +39,22 @@
         "due": 1780215923636,
         "lastReview": 1780129523636
       }
+    },
+    {
+      "id": "21dc9de0-246d-4140-8a2e-16bc3601f32c",
+      "term": "make up for",
+      "definition": "弥补，补偿，抵消：通过做某事来纠正或改善其他事情。",
+      "note": "",
+      "createdAt": "2026-05-30T14:07:58.271Z",
+      "updatedAt": "2026-05-30T14:07:58.271Z",
+      "stats": {
+        "ease": 2.5,
+        "interval": 0,
+        "reps": 0,
+        "lapses": 0,
+        "due": 0,
+        "lastReview": 0
+      }
     }
   ]
 }
