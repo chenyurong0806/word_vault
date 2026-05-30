@@ -63,6 +63,14 @@
       "lapses": 0,
       "due": 1780216739873,
       "lastReview": 1780130339873
+    },
+    "monetary": {
+      "ease": 2.6,
+      "interval": 1,
+      "reps": 1,
+      "lapses": 0,
+      "due": 1780216789709,
+      "lastReview": 1780130389709
     }
   }
 }
