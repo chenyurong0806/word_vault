@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "id": "advanced_wzh的高级单词本_mpsfj434",
+      "name": "wzh的高级单词本",
+      "type": "advanced",
+      "path": "data/advanced/advanced_wzh的高级单词本_mpsfj434.json",
+      "createdAt": "2026-05-30T14:11:47.570Z",
+      "updatedAt": "2026-05-30T14:11:47.570Z"
+    },
+    {
       "id": "basic_wzh的单词本_mpsffckt",
       "name": "wzh的单词本",
       "type": "basic",
