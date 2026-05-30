@@ -47,6 +47,14 @@
       "lapses": 0,
       "due": 1780203333908,
       "lastReview": 1780116933908
+    },
+    "anticipation": {
+      "ease": 2.6,
+      "interval": 1,
+      "reps": 1,
+      "lapses": 0,
+      "due": 1780216712291,
+      "lastReview": 1780130312291
     }
   }
 }
