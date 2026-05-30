@@ -1,15 +1,6 @@
 {
   "books": [
     {
-      "id": "basic_单词本_mpru930g",
-      "name": "单词本",
-      "type": "basic",
-      "path": "data/basic/basic_单词本_mpru930g.txt",
-      "progressPath": "data/progress/basic_单词本_mpru930g.json",
-      "createdAt": "2026-05-30T04:16:07.648Z",
-      "updatedAt": "2026-05-30T04:16:07.648Z"
-    },
-    {
       "id": "basic_单词本_mpru8swg",
       "name": "单词本",
       "type": "basic",
