@@ -1,15 +1,6 @@
 {
   "books": [
     {
-      "id": "basic_test_mpru7gc8",
-      "name": "test",
-      "type": "basic",
-      "path": "data/basic/basic_test_mpru7gc8.txt",
-      "progressPath": "data/progress/basic_test_mpru7gc8.json",
-      "createdAt": "2026-05-30T04:14:51.601Z",
-      "updatedAt": "2026-05-30T04:14:51.601Z"
-    },
-    {
       "id": "advanced_test_mprssyk3",
       "name": "test",
       "type": "advanced",
