@@ -1,6 +1,15 @@
 {
   "books": [
     {
+      "id": "basic_单词本_mpru8swg",
+      "name": "单词本",
+      "type": "basic",
+      "path": "data/basic/basic_单词本_mpru8swg.txt",
+      "progressPath": "data/progress/basic_单词本_mpru8swg.json",
+      "createdAt": "2026-05-30T04:15:54.556Z",
+      "updatedAt": "2026-05-30T04:15:54.556Z"
+    },
+    {
       "id": "basic_test_mprsoquc",
       "name": "test",
       "type": "basic",
