@@ -14,14 +14,14 @@
       "definition": "n. 实施，执行",
       "note": "这个词我不认识",
       "createdAt": "2026-05-30T14:12:45.511Z",
-      "updatedAt": "2026-05-30T14:12:45.511Z",
+      "updatedAt": "2026-05-30T14:13:39.919Z",
       "stats": {
-        "ease": 2.5,
-        "interval": 0,
-        "reps": 0,
+        "ease": 2.6,
+        "interval": 1,
+        "reps": 1,
         "lapses": 0,
-        "due": 0,
-        "lastReview": 0
+        "due": 1780236819919,
+        "lastReview": 1780150419919
       }
     }
   ]
