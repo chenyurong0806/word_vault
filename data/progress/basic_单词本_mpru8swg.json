@@ -1,3 +1,12 @@
 {
-  "items": {}
+  "items": {
+    "capacity": {
+      "ease": 2.6,
+      "interval": 1,
+      "reps": 1,
+      "lapses": 0,
+      "due": 1780200996257,
+      "lastReview": 1780114596257
+    }
+  }
 }
