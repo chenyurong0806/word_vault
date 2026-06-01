@@ -55,6 +55,22 @@
         "due": 0,
         "lastReview": 0
       }
+    },
+    {
+      "id": "09c6d4c7-d7d0-450a-807b-736f71daddbd",
+      "term": "王云起",
+      "definition": "sb",
+      "note": "",
+      "createdAt": "2026-06-01T11:39:51.195Z",
+      "updatedAt": "2026-06-01T11:39:51.195Z",
+      "stats": {
+        "ease": 2.5,
+        "interval": 0,
+        "reps": 0,
+        "lapses": 0,
+        "due": 0,
+        "lastReview": 0
+      }
     }
   ]
 }
