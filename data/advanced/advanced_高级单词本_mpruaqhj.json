@@ -71,6 +71,22 @@
         "due": 0,
         "lastReview": 0
       }
+    },
+    {
+      "id": "d71cc93a-31eb-4c72-b816-03122525f5de",
+      "term": "evolve",
+      "definition": "v. 进化，演化；逐步发展，逐渐演变；测试",
+      "note": "",
+      "createdAt": "2026-06-03T13:24:05.661Z",
+      "updatedAt": "2026-06-03T13:24:05.661Z",
+      "stats": {
+        "ease": 2.5,
+        "interval": 0,
+        "reps": 0,
+        "lapses": 0,
+        "due": 0,
+        "lastReview": 0
+      }
     }
   ]
 }
