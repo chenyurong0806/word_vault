@@ -57,12 +57,12 @@
       "lastReview": 1780668854752
     },
     "backfire": {
-      "ease": 2.6,
-      "interval": 1,
-      "reps": 1,
+      "ease": 2.7,
+      "interval": 6,
+      "reps": 2,
       "lapses": 0,
-      "due": 1780216739873,
-      "lastReview": 1780130339873
+      "due": 1781187274850,
+      "lastReview": 1780668874850
     },
     "monetary": {
       "ease": 2.6,
