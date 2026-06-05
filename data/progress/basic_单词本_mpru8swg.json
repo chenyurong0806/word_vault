@@ -41,12 +41,12 @@
       "lastReview": 1780668841319
     },
     "unknown": {
-      "ease": 2.6,
-      "interval": 1,
-      "reps": 1,
+      "ease": 2.7,
+      "interval": 6,
+      "reps": 2,
       "lapses": 0,
-      "due": 1780203333908,
-      "lastReview": 1780116933908
+      "due": 1781187245107,
+      "lastReview": 1780668845107
     },
     "anticipation": {
       "ease": 2.6,
