@@ -9,12 +9,12 @@
       "lastReview": 1780668808535
     },
     "track": {
-      "ease": 2.6,
-      "interval": 1,
-      "reps": 1,
+      "ease": 2.7,
+      "interval": 6,
+      "reps": 2,
       "lapses": 0,
-      "due": 1780201003377,
-      "lastReview": 1780114603377
+      "due": 1781187219086,
+      "lastReview": 1780668819086
     },
     "destruction": {
       "ease": 2.6,
