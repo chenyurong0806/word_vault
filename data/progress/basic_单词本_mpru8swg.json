@@ -25,12 +25,12 @@
       "lastReview": 1780668824259
     },
     "exposes": {
-      "ease": 2.6,
-      "interval": 1,
-      "reps": 1,
+      "ease": 2.7,
+      "interval": 6,
+      "reps": 2,
       "lapses": 0,
-      "due": 1780203326028,
-      "lastReview": 1780116926028
+      "due": 1781187232433,
+      "lastReview": 1780668832433
     },
     "consistent": {
       "ease": 2.6,
