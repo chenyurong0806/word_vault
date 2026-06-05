@@ -17,12 +17,12 @@
       "lastReview": 1780668819086
     },
     "destruction": {
-      "ease": 2.6,
-      "interval": 1,
-      "reps": 1,
+      "ease": 2.7,
+      "interval": 6,
+      "reps": 2,
       "lapses": 0,
-      "due": 1780203281147,
-      "lastReview": 1780116881147
+      "due": 1781187224259,
+      "lastReview": 1780668824259
     },
     "exposes": {
       "ease": 2.6,
